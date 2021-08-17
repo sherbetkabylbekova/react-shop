@@ -1,0 +1,28 @@
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header{
+    background-color: #FF3E6C;
+    padding: 37px 140px;
+}
+.nav__bar{
+    Size:14px;
+    Line-height: 16px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.nav__icon{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 30px;
+}
